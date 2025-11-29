@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Second Site</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; background-color: #f9f9f9; }
+        header { background-color: #e67e22; color: white; padding: 20px; }
+        section { padding: 20px; }
+        button { background-color: #3498db; color: white; border: none; padding: 10px 20px; cursor: pointer; }
+        button:hover { background-color: #2980b9; }
+        p { font-size: 18px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Second Site</h1>
+    </header>
+    <section>
+        <p>I create simple and elegant landing pages for small businesses.</p>
+        <button>Learn More</button>
+    </section>
+</body>
+</html>
